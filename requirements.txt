@@ -11,7 +11,7 @@ cffi==1.11.5
 chardet==3.0.4
 colorama==0.4.0
 country-list==0.1.1
-cryptography==2.3.1
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29
 docutils==0.14

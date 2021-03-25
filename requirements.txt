@@ -64,7 +64,7 @@ python-gitlab==1.6.0
 python2==1.2
 pytz==2017.3
 pywin32==224
-PyYAML==3.12
+PyYAML==5.4
 requests==2.9.1
 requests-futures==0.9.7
 rsa==3.4.2

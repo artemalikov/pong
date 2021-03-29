@@ -50,7 +50,7 @@ pyasn1-modules==0.2.1
 pycountry==18.5.26
 pycparser==2.19
 pygame==1.9.3
-Pygments==2.2.0
+Pygments==2.7.4
 PyMySQL==0.8.0
 pyOpenSSL==18.0.0
 pyparsing==2.2.0

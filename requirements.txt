@@ -31,7 +31,7 @@ Kivy-Garden==0.1.4
 kivy.deps.glew==0.1.10
 kivy.deps.gstreamer==0.1.13
 kivy.deps.sdl2==0.1.18
-lxml==4.2.4
+lxml==4.9.1
 Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.1.1
